@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>4CC07425-3CF2-46D1-94A3-14CAAD39F64E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M5.67170849,23.5754893 L10.822004,18.4249483 L12.3045868,19.907286 L7.15380086,25.0575817 L5.67170849,23.5754893 Z M28.6624841,6.39199595 L30.822602,5.67179317 L30.1023992,7.83215629 L30.1234879,7.85324497 L30.0815557,7.89493189 L22.4925753,30.6626089 L17.3658203,19.1285749 L5.83178625,14.0018199 L28.5989728,6.41283941 L28.6411502,6.37017163 L28.6624841,6.39199595 Z M11.6213631,14.2818574 L17.9278573,17.0846892 L25.2846165,9.72694902 L11.6213631,14.2818574 Z M19.4097044,18.5665361 L22.2122912,24.8730303 L26.7667093,11.2097769 L19.4097044,18.5665361 Z M5.67237057,29.3407163 L12.3952439,22.6193144 L13.8773364,24.1021425 L7.15446302,30.8230539 L5.67237057,29.3407163 Z M11.4353903,29.3413777 L16.5866666,24.1915724 L18.068759,25.67391 L12.9174826,30.8237154 L11.4353903,29.3413777 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-372.000000, -3395.000000)">
+            <g id="icon/-send" transform="translate(366.566406, 3390.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#27AAE1" xlink:href="#path-1"></use>
+                <g id="swatch/-blue" mask="url(#mask-2)" fill="#25AAE1">
+                    <g transform="translate(0.082031, -0.025781)" id="blue">
+                        <rect x="0" y="0" width="36" height="36"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
